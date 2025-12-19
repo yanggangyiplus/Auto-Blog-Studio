@@ -1,0 +1,24 @@
+{
+  "blog_topic": "박정현 부여군수 \"지방성장펀드, 충남이 주도해야 한다\"",
+  "html_file": "/Users/yanggangyi/Desktop/Fastcampus/FC_Main-project-1/data/generated_blogs/economy/박정현_부여군수_지방성장펀드_충남이_주도해야_한다_20251216_184949_v1.html",
+  "placeholders": [
+    {
+      "index": 0,
+      "alt": "Abstract digital art representing investment growth and economic prosperity, vibrant colors, futuristic style",
+      "tag": "<img src=\"PLACEHOLDER\" alt=\"Abstract digital art representing investment growth and economic prosperity, vibrant colors, futuristic style\" class=\"blog-image\">"
+    },
+    {
+      "index": 1,
+      "alt": "People collaborating on a project, brainstorming ideas, modern office, diverse team, soft lighting",
+      "tag": "<img src=\"PLACEHOLDER\" alt=\"People collaborating on a project, brainstorming ideas, modern office, diverse team, soft lighting\" class=\"blog-image\">"
+    },
+    {
+      "index": 2,
+      "alt": "Data visualization of economic growth in different regions, connected network, global perspective, futuristic design",
+      "tag": "<img src=\"PLACEHOLDER\" alt=\"Data visualization of economic growth in different regions, connected network, global perspective, futuristic design\" class=\"blog-image\">"
+    }
+  ],
+  "created_at": "2025-12-16T18:49:52.158680",
+  "evaluation_score": 85,
+  "category": "economy"
+}
